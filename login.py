@@ -50,7 +50,7 @@ entrada_senha.grid(row=1, column=1, padx=10, pady=10, sticky="ew")
 botao_login = tk.Button(janela, text="Login", command=verificar_login, 
                         bg="#FF007F",
                         fg="white",
-                        activebackground="#45a049",
+                        activebackground="#851c4d",
                         font=("Times New Roman", 12, "bold"))
 botao_login.grid(row=2, column=0, columnspan=2, padx=10, pady=10, sticky="ew")
 
